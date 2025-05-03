@@ -433,3 +433,7 @@ Kodo stilius:
 
 Programos kodas parašytas Python kalba. Bendras kodo formatavimas ir struktūra atrodo sekanti bendras Python programavimo konvencijas, įskaitant klasių, funkcijų, kintamųjų pavadinimus ir importų tvarkymą. Stengtasi laikytis PEP8 stiliaus.
 
+Pagalbinės priemonės:
+
+Kaip pagalbinės priemonės naudotos Gemini AI (ištaisyti kodo klaidas, sugeneruoti testinius failus, bei pagalba aprašant darbą, bei rasti tam tikrus sprendimus kaip ką atlikti ar geriau atlikti), Copilot, Youtube image recognition in Python tutorial, buvo kreiptasi ir į fullstack programuotoja, dėl iškilusios problemos su inventory region problema.
+
